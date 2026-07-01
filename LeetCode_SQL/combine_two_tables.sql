@@ -62,7 +62,7 @@
 -- addressId = 1 contains information about the address of personId = 2.
 
 
--- # Write your MySQL query statement below
+-- # Write your MySQL query statement below #
 
 SELECT
     a.firstName,
